@@ -1,0 +1,4 @@
+Python Data Science
+https://jakevdp.github.io/PythonDataScienceHandbook/
+Class Object Oriented Programming
+https://python-textbok.readthedocs.io/en/1.0/Classes.html
